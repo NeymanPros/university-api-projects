@@ -1,1 +1,1 @@
-A
+*Telegram bot*, which generates film suggestions using svg correlation. Uses dataset from [MovieLens100k](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset/data) , user-provided scores and film_id - film_name. 
