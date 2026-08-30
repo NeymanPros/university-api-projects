@@ -1,1 +1,1 @@
-Tool for brain storming, sends a request to several neural netwroks, makes them analize their answers and creates a final answer by the best chosen answerer. 
+App for brain storming, asks several neural netwroks the same question, makes them analize their answers adn find the best one, then creates a final answer based on these replies. 
